@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+canvas {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    width: 100vh;
+    height: 100vh;
+    background-color: #000000;
+}
